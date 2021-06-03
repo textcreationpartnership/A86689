@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hue and cry after the high court of injustice. Or, the arraignment and sentence of those blood-thirsty and unparallel'd traitors, who contrary to all law and justice, judged and condemned the late Kings Majesty, Charles the First, of glorious memory to death; who by the divine hand of Gods justice, which alwayes pursues and overtakes blood-thirsty traitots [sic] to their ruine aad [sic] destruction, are now to be made publick examples of justice, for that horrid act which is now by both Houses of Parliament declared to be horrid murder. With a perfect list of all their names, whose estates are to be sequestered for the same, for the use of his Majesty.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86689</idno><idno type="EEBO-CITATION">99867631</idno>
+  <idno type="VID">168864</idno>
+  <idno type="EEBO-PROQUEST">2240956497</idno>
+  
+            <idno type="STC">Wing H3292</idno>
+            <idno type="STC">Thomason E1025_8</idno>
+            <idno type="STC">ESTC R208704</idno>
+            <idno type="PROQUEST">99867631</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867631e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168864)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1025[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hue and cry after the high court of injustice. Or, the arraignment and sentence of those blood-thirsty and unparallel'd traitors, who contrary to all law and justice, judged and condemned the late Kings Majesty, Charles the First, of glorious memory to death; who by the divine hand of Gods justice, which alwayes pursues and overtakes blood-thirsty traitots [sic] to their ruine aad [sic] destruction, are now to be made publick examples of justice, for that horrid act which is now by both Houses of Parliament declared to be horrid murder. With a perfect list of all their names, whose estates are to be sequestered for the same, for the use of his Majesty.</title>
+               </titleStmt>
+               <extent>8 p. : ill., port.  </extent>
+               <publicationStmt>
+                  <publisher>printed for John Andrews, at the White Lion near Pye-Corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontis.=ill. (portrait of Charles I).</note>
+                  <note>Annotation on Thomason copy: "May 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Regicides --  Early works to 1800.</term>
+               <term type="topical_term">Trials (Treason) --  England --  Early works to 1800.</term>
+               <term type="topical_term">Treason --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1688 --  Confiscations and contributions --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:168864:2"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of King Charles I of England</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:168864:1"/>
+            <p>A HUE and CRY AFTER THE High Court of Injustice.</p>
+            <p>OR, The Arraignment and Sentence of those Blood-thirsty and unparallel'd Traitors, who contrary to all Law and Justice, Judged and condemned the late Kings Majesty, CHARLES the First, of glorious Memory to Death; who by the Divine hand of Gods Justice, which alwayes pursues and overtakes Blood-thirsty Traitots to their Ruine aad Destru<g ref="char:EOLhyphen"/>ction, are now to be made publick Examples of Justice, for that horrid Act which is now by both Houses of Parliament declared to be <hi>HORRID MƲRDER.</hi>
+            </p>
+            <p>With a perfect List of all their Names, whose Estates are to be Sequestered for the same, for the use of his Majesty.</p>
+            <q>Whoso sheddeth mans Blood, by man shall his Blood be shed.</q>
+            <q>
+               <bibl>Psal. 55.23.</bibl>
+               <p>Bloody, and deceitful men shall not live out half their dayes,</p>
+            </q>
+            <q>
+               <bibl>Numb. 35.32.</bibl>
+               <p>Ye shall take no satisfaction for the life of a Murder<g ref="char:EOLhyphen"/>er which is guilty of Death, but he shall surely be put to death.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Andrews,</hi> at the White Lion near <hi>Pye-Corner.</hi> 1660. <add>May 22</add>
+            </p>
+            <pb facs="tcp:168864:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168864:3"/>
+            <pb n="5" facs="tcp:168864:3"/>
+            <head>A Hue and Cry After The High Court of Injustice.</head>
+            <epigraph>
+               <q>
+                  <bibl> Sam. 26.8, 9.</bibl>
+                  <p>Abishai said to David, God hath delivered thine enemy into thine hand, therefore let me smite him with the spear.</p>
+                  <p>And David said, Destroy him not; for who can stretch forth his hand against the Lords Anointed, and be guiltless.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He divine hand of Gods Justice which in all Ages per<g ref="char:EOLhyphen"/>sues and overtakes blood-thirsty Traytors and Mur<g ref="char:EOLhyphen"/>therers, having now by a most miraculous way of Providence restored <hi>Englands</hi> old Liberties by a free and full Parliament, consisting of King, Lords, and Commons, the best and most flourishing Govern<g ref="char:EOLhyphen"/>ment in the world, from the hands of bloody Tyrants and Tray<g ref="char:EOLhyphen"/>tors, who lately tyrannized over us even almost to the utter ruine and destruction of all the three Nations, it pleased the Parliament as their bounden duty to God, their lawful King, and the three King<g ref="char:EOLhyphen"/>doms, in the first place to restore our onely lawful Sovereign Lord and King, <hi>Charles</hi> the Second, by the Grace of God King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> to his just Rights and Dignities.</p>
+            <pb n="6" facs="tcp:168864:4"/>
+            <p> In the next place they begin to make inquisition for blood, inno<g ref="char:EOLhyphen"/>cent Blood, Royal Blood; thereupon they inquire into, and examine the nature and manner of the late Kings death, and upon due consi<g ref="char:EOLhyphen"/>deration of the whole matter, they unanimously resolve the said Kings Death to be horrid Murther, and the persons who sate as Judges in that High Court of high Injustice, to be Rebels and Tray<g ref="char:EOLhyphen"/>tours: Whereupon they begin to consider how the Kingdom may be freed from the guilt of that horrid blood-shed and murther, they unanimously resolve some of the chief Actors and Conspirators to be made publick examples of Justice for the said harsh injustice and murther; whereupon the persons concern'd in that horrid Fact being conscious of their own guilt, endeavour to flye beyond the seas, thereby thinking to escape that Justice and vengeance which its im<g ref="char:EOLhyphen"/>possible to escape; for God to whom vengeance belong, and who will repay it, will alwayes sooner or later cause all such Rebels and Traytors to receive the reward of their Treason. Several of those persons being since seized upon, it is likewise ordered to seize on their Estates, Goods, and Lands of all the rest who are fled; in pursuance of which Order, several of their Estates and Gods are already sea<g ref="char:EOLhyphen"/>sed upon, especially the Goods of that grand Rebel, and audacious Traitor <hi>John Bradshaw,</hi> President to the said Court of Injustice; whose impudence it was to pass that cursed and hard Sentence against the Kings Majesty, to the extream grief of all good people, the scan<g ref="char:EOLhyphen"/>dal of the Protestant Reformed Religion, the wonder and amazement of all the world.</p>
+            <div type="part">
+               <head>The manner of the Proceeding of the High Court of High Injustice against the Kings Majesty.</head>
+               <p>The Kings Majesty being brought before this High Court of High Injustice, a pretended charge of high Treason, of which these pre<g ref="char:EOLhyphen"/>tended Judges were deeply guilty of, was read against the Kings Ma<g ref="char:EOLhyphen"/>jesty, by Mr. <hi>Broughton</hi> their Clerk; so the Kings Majesty was impu<g ref="char:EOLhyphen"/>dently required by <hi>Bradshaw</hi> to give his answer: the Kings Majesty resolving not to own such a horrid Court, questioned their Authori<g ref="char:EOLhyphen"/>ty, and refused to answer. Having been three times brought before
+<pb n="7" facs="tcp:168864:4"/>them, his Majesty was at last wickedly sentenced to dye by these cur<g ref="char:EOLhyphen"/>sed Traitors, and accordingly he was Beheaded before his own Palace, <hi>January</hi> 30. 1648. to the great grief of all his loving Subjects. The Warrants for his Majesties Execution was subscribed by the Hands and Seals of these persons following whose Goods and Estates are now to be confiscated for the use of his Majesty <hi>Charles</hi> the Second, by the Grace of God, King of <hi>England, Scotland, France,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land.</hi> Ordered by the Lords and Commons in Parliament, That all those persons following, who sate in Judgement upon the late Kings Majesty, <hi>Charles</hi> the First, of glorious memory, when Sentence of Death was pronounced against his Majesty, all their Estates, both real and personal, of all and every of them who are fled, be forth<g ref="char:EOLhyphen"/>with seized and secured.</p>
+               <div type="section">
+                  <p>
+                     <hi>John Bradshaw,</hi> President of the pretended High Court of Justice. <hi>John Lisle, William Say, Oliver Cromwel, Henry Ireton,</hi> Esquires. Sir <hi>Hardress Waller, Valentine Walton, Thomas Harrison, Edward. Whaley, Thomas Pride, Isaac Ewers,</hi> Esquires. Lord <hi>Gray</hi> of <hi>Gro<g ref="char:EOLhyphen"/>by,</hi> Sir <hi>John Danvers,</hi> Knight. Sir <hi>Thomas Malaver<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r,</hi> Baronet. Sir <hi>John Bourcher,</hi> Knight. <hi>William Heveningham,</hi> Esquire. Al<g ref="char:EOLhyphen"/>derman, <hi>Pennington,</hi> Alderman of <hi>London. William Purefoy, Hen<g ref="char:EOLhyphen"/>ry Martin, John Barkstead, John Blackiston, Gilbert Millington,</hi> Es<g ref="char:EOLhyphen"/>quires. Sir <hi>William Constable,</hi> Baronet. <hi>Edmond Ludlow. John Hutchinson,</hi> Esquires. Sir <hi>Michael Livesey,</hi> Baronet. <hi>Robert Tichbourne, Owen Roe, Robert Lilburne, Adrian Scroope, Richard Deane, John Okey, John Hewson, William Goffe, Cornelius Holland, John Carey, John Jones, Miles Corbet, Francis Allin, Peregrine Pel<g ref="char:EOLhyphen"/>ham, John Moore, John Aldred, Henry Smith, Humphrey Edwards, Gregory Clement, Thomas Woogan,</hi> Esquires. Sir <hi>Gregory Norton,</hi> Knight. <hi>Edmond Harvy, John Venn, Thomas Scot,</hi> Esquires. <hi>Tho<g ref="char:EOLhyphen"/>mas Andrews,</hi> Alderman of <hi>London. William Cawly, Anthony Stapley, John Downes, Thomas Horton, Thomas Hammond, Nicholas Love, Vincent Potter, Augustine Garland, John Dixwel, George Fleet<g ref="char:EOLhyphen"/>wood, Simon Meyne, James Temple, Peter Temple, Danniel Bla<g ref="char:EOLhyphen"/>grave, Thomas Waite,</hi> Esquires.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:168864:5"/>
+               <head>The Names of Thirty five Witnesses pro<g ref="char:EOLhyphen"/>duced and Sworn in the said pretended Court, to give Evidence against the <hi>KING.</hi>
+               </head>
+               <p>HEnry Hartford, Edward Roberts, William Braynes, Robert Lacie, Robert Loads, Samuel Morgan, James Williams, Richard Pots, Giles Grice, William Arnop, John Hudson, John Winson▪ George Seeley, John Moore, Thomas Ives, James Cresby, Thomas Rawlins, Richard Bloomfield, John Thomas, William Lawson, John Pinegar, Humphrey Brown, David Evans, Robert Holmes, Robert Williams, Samuel Woorden, Thomas Read, George Cornwal, William Jones, Arthur Young, Diogenes Ed<g ref="char:EOLhyphen"/>wards, John Bennet, William Cutbert, Richard Price, Henry Gouch.</p>
+               <p>O yes! If any man or Woman, in City, Town, or Countrey, can Discover, or bring Tydings of any of these aforesaid Traytor who are fled away: Let them convey them safe to the Tower of <hi>London,</hi> and they shall be well rewarded for their Pains.</p>
+            </div>
+            <closer>God save King <hi>CHARLES</hi> the Second.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
